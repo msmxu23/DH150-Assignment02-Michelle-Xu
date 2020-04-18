@@ -11,11 +11,10 @@
 - Product satisfaction card
 - Demographics
 ## UT Materials 
-Online Survey[Click here](https://forms.gle/swTTM2xWW8Nu5fz8A) 
+Online Survey [Click here](https://forms.gle/swTTM2xWW8Nu5fz8A) 
 
 Pilot UT Video [Link]
 
-## Video Link
 ## Reflection 
 
 
