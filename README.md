@@ -1,9 +1,21 @@
-# DH150-Assignment02
-# Introduction
-# Process
-# Survey Link
-https://forms.gle/rQtjH6aXkZsjEw2d8
-# Video Link
-# Reflection 
+# DH 150 - Assignment02 - Michelle Xu
+## Introduction 
+
+## Process
+- Introduction
+- Background questions
+- Pre-test questions
+- Tasks
+- Post-test questions
+- SUS questionnaire
+- Product satisfaction card
+- Demographics
+## UT Materials 
+Online Survey[Click here](https://forms.gle/swTTM2xWW8Nu5fz8A) 
+
+Pilot UT Video [Link]
+
+## Video Link
+## Reflection 
 
 
